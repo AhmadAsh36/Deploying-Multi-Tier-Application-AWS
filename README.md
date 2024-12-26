@@ -134,9 +134,6 @@ sudo apt install tomcat9 tomcat9-admin tomcat9-docs tomcat9-common git -y
 ### 12. **Enable Auto Scaling**
    - Set up an auto-scaling group to ensure the EC2 instances scale dynamically based on traffic load.
 
-## Final Architecture Diagram
-
-- [Insert reference diagram here, showing the multi-tier architecture with EC2 instances for Tomcat, MySQL, RabbitMQ, Memcached, ELB, Route 53, and S3]
 
 ## Conclusion
 
