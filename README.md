@@ -1,5 +1,8 @@
 ![Alt text](AWS project.png)
 
+
+---
+
 # Deploying a Multi-Tier Web Application on AWS
 
 ## Overview
