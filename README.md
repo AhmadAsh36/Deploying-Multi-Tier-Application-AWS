@@ -1,5 +1,4 @@
-![Alt text](AWS project.png )
-![Architecture Diagram](AWS project.png)
+![Architecture Diagram](AWS-project.png)
 
 
 
